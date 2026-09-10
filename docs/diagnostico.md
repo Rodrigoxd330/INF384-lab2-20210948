@@ -13,3 +13,4 @@
 
 
 
+4.4 Uso de IA: Se utilizó exclusivamente para la sintaxis de cachear las dependencia y para saber como sacar el nombre de la versión desde el yaml.     
