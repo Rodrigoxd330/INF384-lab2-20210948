@@ -11,10 +11,10 @@
 1.5 **Proxy**: Tiempo de ejecución del pipeline
 
 
-4.1 Medición posterior: 
+4.1 Medición posterior: La medición inicial de la instalación de dependencias fue de 6 segundos y la final de 4 segundos
 
 4.2 Justificación de la versión: Solo el tercer punto de la versión pues solo se realizaron fixes
 
-4.3 
+4.3 Lo que no se resolvió: No se pudo automatizar la creación de versiones automáticamente a traves de los commits (viendo la cantidad de fixes o feats)
 
 4.4 Uso de IA: Se utilizó exclusivamente para la sintaxis de cachear las dependencia y para saber como sacar el nombre de la versión desde el yaml.     
