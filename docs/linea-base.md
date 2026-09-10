@@ -5,9 +5,9 @@ sin modificar ningun archivo del repositorio. Registrar aqui los resultados.
 
 | Ejecucion | Duracion | URL |
 |---|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 |59 s |https://github.com/Rodrigoxd330/INF384-lab2-20210948/actions/runs/34508052599 |
+| 2 |61 s |https://github.com/Rodrigoxd330/INF384-lab2-20210948/actions/runs/34508176012 |
+| 3 |62 s |https://github.com/Rodrigoxd330/INF384-lab2-20210948/actions/runs/34508357307 |
 
 ## Declaracion de uso de IA generativa
 
