@@ -11,6 +11,10 @@
 1.5 **Proxy**: Tiempo de ejecución del pipeline
 
 
+4.1 Medición posterior: 
 
+4.2 Justificación de la versión: Solo el tercer punto de la versión pues solo se realizaron fixes
+
+4.3 
 
 4.4 Uso de IA: Se utilizó exclusivamente para la sintaxis de cachear las dependencia y para saber como sacar el nombre de la versión desde el yaml.     
